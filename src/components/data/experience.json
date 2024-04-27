@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "role": "Wipro TalentNext training program on Java Full Stack",
+    "organisation": "Wipro",
+    "startDate": "Sept, 2022 -",
+    "endDate": "sept,2023",
+    
+    "experiences": [
+      "Skills: DSA, C++/Java , Oop concept,",
+      " solving LeetCode problems"
+    ],
+    "imageSrc": "company/google.png"
+  },
+  {
+    "id": 2,
+    "role": "Full stack development",
+    "organisation": "Mirosoft",
+    "startDate": "Aug, 2023 -",
+    "endDate": "Jan, 2024",
+
+    "experiences": [
+      "Skills: HTML, CSS, JavaScript, ReactJs,",
+      "NodeJs, ExpressJs, Mongodb"
+    ],
+    "imageSrc": "company/microsoft.png"
+  }
+  
+]
